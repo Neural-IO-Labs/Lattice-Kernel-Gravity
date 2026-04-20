@@ -1,4 +1,5 @@
 # Lattice-Kernel-Gravity (LKG)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19657232.svg)](https://doi.org/10.5281/zenodo.19657232)
 ### A 5th-Order WENO Numerical Implementation of Non-Singular Spacetime Dynamics
 
 **Author:** [Your Name / Neuralio Labs Oy]  
